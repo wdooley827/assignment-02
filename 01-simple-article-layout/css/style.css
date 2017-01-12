@@ -1,0 +1,37 @@
+body {
+  font-family: "Georgia";
+  /*margin-right: 400px;*/
+}
+
+#app-container{
+  margin-right: 400px;
+  text-align: left;
+  width: 600px;
+  padding: 10px 100px;
+  background-color: #FBF9F1;
+}
+
+.header {
+  font-size: 12px;
+}
+
+.header span{
+  font-family: "Geneva";
+  color: white;
+  background-color: black;
+}
+
+.body {
+  font-size: 22px;
+  line-height: 1.25;
+  margin-right: 100px;
+}
+
+.body span{
+  color: #BAD9E9;
+}
+
+.body h1{
+  font-weight: 100;
+  font-size: 50px;
+}

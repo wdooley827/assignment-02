@@ -1,0 +1,24 @@
+#app-container{
+  font-family: "Helvetica Neue";
+  text-align: left;
+
+}
+.table th{
+  color: white;
+  background: #004;
+  column-width: 400px;
+
+}
+.table td{
+  color: #004;
+  font-weight: bold;
+  padding-right: 0.80rem;
+}
+
+.table span{
+  font-weight: normal;
+  color: grey;
+}
+.links{
+  color: red;
+}

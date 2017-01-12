@@ -1,0 +1,15 @@
+body {
+  width: 300px;
+}
+.menu {
+  border: 1px solid black;
+  font-family: "Avenir";
+}
+
+.menu p {
+  text-indent: 10px;
+}
+
+.menu span {
+  color: #66CC99;
+}
